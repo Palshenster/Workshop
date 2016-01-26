@@ -1,0 +1,255 @@
+groups:
+  default:
+    permissions:
+    - modifyworld.*
+    - automessage.receive.regular
+    - worldedit.wand
+    - worldguard.region.wand
+    - worldedit.wand.toggle
+    - ChestShop.shop.*
+    - authme.register
+    - authme.login
+    - essentials.worth
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.kit
+    - essentials.kits.start
+    - essentials.kits.help
+    - essentials.kits.bonus
+    - essentials.time
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.pay
+    - essentials.ignore
+    - essentials.info
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.motd
+    - essentials.msg
+    - essentials.rules
+    - essentials.suicide
+    - essentials.spawn
+    - essentials.delhome
+    - essentials.home
+    - essentials.sethome
+    - essentials.sethome.multiple.default
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.warp.*
+    - worldedit.selection.pos
+    - worldedit.selection.hpos
+    - worldedit.selection.expand
+    - worldedit.selection.expand
+    - worldguard.region.claim
+    - worldguard.region.select.own.*
+    - worldguard.region.select.member.*
+    - worldguard.region.list.own.*
+    - worldguard.region.removemember.own.*
+    - worldguard.region.addmember.own.*
+    - -authme.unregister
+    - authme.changepassword
+    - jobs.join.*
+    - chatex.chat.global
+    - chatex.allowchat    - jobs.join.*
+    - chatex.chat.global
+    - chatex.allowchat
+    - -authme.logout
+    options:
+      prefix: '&6[Игрок]&2'
+      suffix: '&f'
+      default: true
+  vip:
+    inheritance:
+    - default
+    permissions:
+    - essentials.heal
+    - essentials.kits.vip
+    - essentials.repair
+    - essentials.repair.armor
+    - essentials.near
+    - essentials.sethome.multiple.vip
+    - essentials.joinfullserver
+    - essentials.clearinventory
+    - essentials.workbench
+    - essentials.hat
+    - essentials.feed
+    - worldguard.region.flag.flags.sleep.*
+    - worldguard.region.flag.flags.tnt.*
+    - worldguard.region.flag.flags.lighter.*
+    - worldguard.region.flag.flags.fire-spread.*
+    - scavenger.scavenge
+    options:
+      prefix: '&6[VIP]&9'
+      suffix: '&a'
+      default: false
+  Premium:
+    inheritance:
+    - default
+    - vip
+    permissions:
+    - essentials.kits.vipp
+    - essentials.ptime
+    - essentials.repair.enchanted
+    - essentials.compass
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.sethome.multiple.vipp
+    - worldedit.navigation.thru.command
+    - worldedit.navigation.unstuck
+    - worldedit.navigation.ascend
+    - worldedit.navigation.descend
+    - worldedit.navigation.ceiling
+    - worldedit.navigation.up
+    - essentials.setwarp
+    - essentials.god
+    - essentials.afk
+    - essentials.afk.kickexempt
+    - essentials.clearinventory
+    - essentials.sethome.multiple.mvp
+    - essentials.afk.kickexempt
+    - essentials.fly
+    - worldguard.region.flag.flags.entry.*
+    - worldguard.region.flag.flags.invincible.*
+    - worldguard.region.flag.flags.exit.*
+    - worldguard.region.flag.flags.greeting.*
+    - worldguard.region.flag.flags.farewell.*
+    - worldguard.region.flag.flags.use.*
+    - worldguard.region.flag.flags.heal-delay.*
+    - worldguard.region.flag.flags.heal-amount.*
+    - worldguard.region.flag.flags.item-drop.*
+    options:
+      prefix: ' &6[Premium]&9'
+      suffix: '&a'
+      default: false
+  Grand:
+    inheritance:
+    - default
+    - vip
+    - premium
+    permissions:
+    - essentials.kits.grand
+    - essentials.sethome.multiple.grand
+    - essentials.gamemode
+    options:
+      prefix: '&8&l[&b&lMVP&6&l+&8&l] &3'
+      suffix: '&a'
+      default: false
+  moder:
+    inheritance:
+    - default
+    - vip
+    - grand
+    permissions:
+    - ChestShop.mod
+    - essentials.joinfullserver
+    - essentials.bigtree
+    - essentials.break
+    - essentials.feed.others
+    - essentials.god.others
+    - essentials.heal.others
+    - essentials.eco
+    - essentials.setworth
+    - essentials.getpos
+    - essentials.list.hidden
+    - essentials.nick.others
+    - essentials.nick.realname
+    - essentials.spawner.*
+    - essentials.antioch
+    - essentials.backup
+    - essentials.ban
+    - essentials.ban.notify
+    - essentials.ban.offline
+    - essentials.banip
+    - essentials.broadcast
+    - essentials.burn
+    - essentials.deljail
+    - essentials.ext
+    - essentials.gc
+    - essentials.invsee
+    - essentials.jails
+    - essentials.kick
+    - essentials.mute
+    - essentials.mute.exempt
+    - essentials.tempban
+    - essentials.tempban.exempt
+    - essentials.tempban.notify
+    - essentials.tempban.offline
+    - essentials.togglejail.offline
+    - essentials.togglejail
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.delhome.others
+    - essentials.sethome.multiple.unlimited
+    - essentials.tp
+    - essentials.tpohere
+    - essentials.tpaall
+    - essentials.teleport.hidden
+    - essentials.tpo
+    - essentials.warp.otherplayers
+    - essentials.spawn.others
+    - essentials.afk.others
+    - essentials.god.pvp
+    - essentials.god.others
+    - essentials.fly.others
+    - essentials.feed.others
+    - worldedit.selection.chunk
+    - worldedit.selection.pos
+    - worldedit.selection.hpos
+    - worldedit.wand
+    - worldedit.selection.contract
+    - worldedit.selection.expand
+    - worldedit.selection.inset
+    - worldedit.selection.outset
+    - worldedit.selection.shift
+    - worldedit.history.undo
+    - worldedit.history.redo
+    - worldedit.superpickaxe.area
+    - worldedit.superpickaxe.recursive
+    - worldedit.superpickaxe
+    - worldedit.snow
+    - worldedit.thaw
+    - worldedit.fill
+    - worldedit.fill.recursive
+    - worldedit.fixlava
+    - worldedit.fixwater
+    - worldedit.removeabove
+    - worldedit.removebelow
+    - worldedit.removenear
+    - worldedit.replacenear
+    - worldedit.extinguish
+    - worldedit.butcher
+    - worldedit.remove
+    - worldedit.help
+    - worldedit.green
+    - worldedit.drain
+    - worldedit.scripting.execute
+    - worldedit.scripting.execute
+    - worldedit.scripting.execute
+    - worldguard.region.define
+    - worldguard.region.redefine.own
+    - worldguard.region.redefine
+    - worldguard.region.redefine.member
+    - worldguard.region.flag.regions.*
+    - worldguard.region.unlimited
+    options:
+      prefix: '&2[Moder]&6'
+      suffix: '&2'
+      default: false
+  Admin:
+    permissions:
+    - '*'
+    options:
+      prefix: '&4[Admin]'
+      suffix: '&4'
+      default: false
+schema-version: 1
+users:
+  b5077b6f-3a67-411d-b28c-3a398433e8a9:
+    permissions:
+    - '*'
+    options:
+      name: Palshenster

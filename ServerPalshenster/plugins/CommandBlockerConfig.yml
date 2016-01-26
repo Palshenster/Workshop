@@ -1,0 +1,19 @@
+Message: §c [CommandBlocker] This Command is blocked by Palshenster!
+BlockedCommands:
+  NonOP:
+  - /stop
+  - /ban
+  - /kick
+  - /deop~Palshenster
+  - /plugins
+  OP:
+  - /blockedcommand
+  - /blabla
+  - /lalallala
+  - /deop~Palshenster
+  - /plugins
+  User:
+    testuser:
+    - /blockedusercommand
+    - /blatest
+    - /lalauserllala

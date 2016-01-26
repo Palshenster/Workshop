@@ -1,0 +1,369 @@
+[15:10:49] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[15:10:49] [Server thread/INFO]: Loading properties
+[15:10:49] [Server thread/INFO]: Default game type: SURVIVAL
+[15:10:49] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[15:10:49] [Server thread/INFO]: Debug logging is disabled
+[15:10:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:10:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:10:49] [Server thread/INFO]: Generating keypair
+[15:10:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:10:49] [Server thread/INFO]: Using default channel type
+[15:10:50] [Server thread/WARN]: Plugin `MachineGuard_Reloaded v2.1' uses the space-character (0x20) in its name `MachineGuard Reloaded' - this is discouraged
+[15:10:50] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:10:51] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.12.0
+[15:10:51] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[15:10:51] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[15:10:51] [Server thread/INFO]: [CommandBlocker] Loading CommandBlocker v0.7
+[15:10:51] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.8.4
+[15:10:51] [Server thread/INFO]: [AutoMessage] Loading AutoMessage v2.5.4
+[15:10:51] [Server thread/INFO]: [WorldBorder] Loading WorldBorder v1.8.5
+[15:10:51] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1
+[15:10:51] [Server thread/INFO]: [AutoSaveWorld] Loading AutoSaveWorld v4.14.2
+[15:10:51] [Server thread/INFO]: [MachineGuard_Reloaded] Loading MachineGuard_Reloaded v2.1
+[15:10:51] [Server thread/INFO]: [iConomy] Loading iConomy v7.0
+[15:10:51] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.3
+[15:10:51] [Server thread/INFO]: [Tablist] Loading Tablist v1.2.3.7
+[15:10:51] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[15:10:51] [Server thread/INFO]: [HideStream] Loading HideStream v3.7
+[15:10:51] [Server thread/INFO]: [CPFix] Loading CPFix v0.4.0
+[15:10:51] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[15:10:51] [Server thread/INFO]: [ProtocolSupport] Loading ProtocolSupport v4.21.1
+[15:10:52] [Server thread/INFO]: [MassiveCore] Loading MassiveCore v2.8.4
+[15:10:52] [Server thread/INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[15:10:52] [Server thread/INFO]: [ChestShop] Loading ChestShop v3.8.12
+[15:10:52] [Server thread/INFO]: [Jobs] Loading Jobs v2.12.0
+[15:10:52] [Server thread/INFO]: [CreativeGates] Loading CreativeGates v2.8.4
+[15:10:52] [Server thread/INFO]: [Scavenger] Loading Scavenger v1.6-66
+[15:10:52] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.4
+[15:10:52] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.8.8) has not yet been tested! Proceed with caution.
+[15:10:52] [Server thread/INFO]: [CraftBook] Loading CraftBook v3.8-SNAPSHOT:3803-e037f90,master
+[15:10:52] [Server thread/INFO]: [ChatEx] Loading ChatEx v1.3
+[15:10:52] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.1-SNAPSHOT
+[15:10:52] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.1.10
+[15:10:52] [Server thread/INFO]: [AutoSaveWorld] Enabling AutoSaveWorld v4.14.2
+[15:10:52] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[15:10:52] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:10:52] [Server thread/WARN]: iConomy - If you are using Flatfile storage be aware that versions 6, 7 and 8 have a CRITICAL bug which can wipe ALL iconomy data.
+[15:10:52] [Server thread/WARN]: if you're using Votifier, or any other plugin which handles economy data in a threaded manner your server is at risk!
+[15:10:52] [Server thread/WARN]: it is highly suggested to use SQL with iCo6 or to use an alternative economy plugin!
+[15:10:52] [Server thread/INFO]: [Vault] [Economy] iConomy 6 found: Waiting
+[15:10:52] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:10:52] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:10:52] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:10:52] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[15:10:52] [Server thread/INFO]: [ProtocolSupport] Enabling ProtocolSupport v4.21.1
+[15:10:52] [Server thread/INFO]: [MassiveCore] Enabling MassiveCore v2.8.4
+[15:10:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.4[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:10:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.4[0;36;22m] [0;33;1m[0;33;1mLoading Cachefile datas...[m
+[15:10:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.4[0;36;22m] [0;33;1m[0;33;1mLoading Onlineplayer datas...[m
+[15:10:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.4[0;36;22m] [0;33;1m[0;33;1mLoading Registry datas...[m
+[15:10:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.4[0;36;22m] [0;33;1m[0;33;1mSaving Cachefile...[m
+[15:10:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.4[0;36;22m] [0;33;1m[0;33;1mSetup of IdUtil took [0;35;1m36[0;33;1mms.[m
+[15:10:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.4[0;36;22m] [0;33;1m[0;32;1mActivated [0;33;1mintegration with [0;35;1mVault[m
+[15:10:52] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.4[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m343ms[0;33;1m) ===[m
+[15:10:52] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.4
+[15:10:53] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[15:10:53] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:10:53] [Server thread/INFO]: Preparing level "Palshenster"
+[15:10:53] [Server thread/INFO]: -------- World Settings For [Palshenster] --------
+[15:10:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:10:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:10:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:10:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:10:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:10:53] [Server thread/INFO]: View Distance: 10
+[15:10:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:10:53] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:10:53] [Server thread/INFO]: Clear tick list: false
+[15:10:53] [Server thread/INFO]: Max Entity Collisions: 8
+[15:10:53] [Server thread/INFO]: Max TNT Explosions: 100
+[15:10:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:10:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Anti X-Ray: true
+[15:10:53] [Server thread/INFO]: 	Engine Mode: 1
+[15:10:53] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:10:53] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:10:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:10:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:10:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:10:53] [Server thread/INFO]: Random Lighting Updates: false
+[15:10:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:10:53] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:10:53] [Server thread/INFO]: Structure Info Saving: true
+[15:10:53] [Server thread/INFO]: Mob Spawn Range: 4
+[15:10:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:10:53] [Server thread/INFO]: -------- World Settings For [Palshenster_nether] --------
+[15:10:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:10:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:10:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:10:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:10:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:10:53] [Server thread/INFO]: View Distance: 10
+[15:10:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:10:53] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:10:53] [Server thread/INFO]: Clear tick list: false
+[15:10:53] [Server thread/INFO]: Max Entity Collisions: 8
+[15:10:53] [Server thread/INFO]: Max TNT Explosions: 100
+[15:10:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:10:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Anti X-Ray: true
+[15:10:53] [Server thread/INFO]: 	Engine Mode: 1
+[15:10:53] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:10:53] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:10:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:10:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:10:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:10:53] [Server thread/INFO]: Random Lighting Updates: false
+[15:10:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:10:53] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:10:53] [Server thread/INFO]: Structure Info Saving: true
+[15:10:53] [Server thread/INFO]: Mob Spawn Range: 4
+[15:10:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:10:53] [Server thread/INFO]: -------- World Settings For [Palshenster_the_end] --------
+[15:10:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:10:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:10:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:10:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:10:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:10:53] [Server thread/INFO]: View Distance: 10
+[15:10:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:10:53] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[15:10:53] [Server thread/INFO]: Clear tick list: false
+[15:10:53] [Server thread/INFO]: Max Entity Collisions: 8
+[15:10:53] [Server thread/INFO]: Max TNT Explosions: 100
+[15:10:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:10:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:10:53] [Server thread/INFO]: Anti X-Ray: true
+[15:10:53] [Server thread/INFO]: 	Engine Mode: 1
+[15:10:53] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[15:10:53] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[15:10:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[15:10:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:10:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[15:10:53] [Server thread/INFO]: Random Lighting Updates: false
+[15:10:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:10:53] [Server thread/INFO]: Sending up to 10 chunks per packet
+[15:10:53] [Server thread/INFO]: Structure Info Saving: true
+[15:10:53] [Server thread/INFO]: Mob Spawn Range: 4
+[15:10:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[15:10:53] [Server thread/INFO]: Preparing start region for level 0 (Seed: 9000292754229403619)
+[15:10:54] [Server thread/INFO]: Preparing spawn area: 57%
+[15:10:54] [Server thread/INFO]: Preparing start region for level 1 (Seed: 9000292754229403619)
+[15:10:55] [Server thread/INFO]: Preparing spawn area: 50%
+[15:10:56] [Server thread/INFO]: Preparing start region for level 2 (Seed: 9000292754229403619)
+[15:10:56] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.12.0
+[15:10:56] [Server thread/INFO]: CoreProtect version 2.12.0 is enabled!
+[15:10:56] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[15:10:56] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[15:10:57] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:10:57] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[15:10:57] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[15:10:57] [Server thread/INFO]: Версия Bukkit изменена. Версия не проверяется
+[15:10:57] [Server thread/INFO]: git-Spigot-db6de12-18fbb24 (MC: 1.8.8)
+[15:10:57] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[15:10:57] [Server thread/INFO]: Using locale ru_RU
+[15:10:57] [Server thread/INFO]: Using locale ru_RU
+[15:10:57] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[15:10:57] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[15:10:57] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[15:10:57] [Server thread/INFO]: [Essentials] Payment method found (Vault - Economy: iConomy  version: 1.5.6-b49)
+[15:10:57] [Server thread/INFO]: [CommandBlocker] Enabling CommandBlocker v0.7
+[15:10:57] [Server thread/INFO]: [CommandBlocker] activated
+[15:10:57] [Server thread/INFO]: [CommandBlocker] by Bestora
+[15:10:57] [Server thread/INFO]: [CommandBlocker] Config:
+[15:10:57] [Server thread/INFO]: Message: §c [CommandBlocker] This Command is blocked by Palshenster!
+[15:10:57] [Server thread/INFO]: Blocked NonOp Commands: [/stop, /ban, /kick, /deop~Palshenster, /plugins]
+[15:10:57] [Server thread/INFO]: Blocked Op Commands: [/blockedcommand, /blabla, /lalallala, /deop~Palshenster, /plugins]
+[15:10:57] [Server thread/INFO]: [CommandBlocker] loaded!
+[15:10:57] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.8.4
+[15:10:57] [Server thread/INFO]: [ClearLag] Loading modules...
+[15:10:57] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[15:10:57] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[15:10:57] [Thread-29/INFO]: [ClearLag] Checking for updates...
+[15:10:57] [Server thread/INFO]: [AutoMessage] Enabling AutoMessage v2.5.4
+[15:10:57] [Server thread/INFO]: [WorldBorder] Enabling WorldBorder v1.8.5
+[15:10:57] [Server thread/INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[15:10:57] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[15:10:57] [Server thread/INFO]: [WorldBorder] For reference, the main world's spawn location is at X: -188,0 Y: 64,0 Z: -240,0
+[15:10:57] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster) TNT ignition is PERMITTED.
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster) Lighters are PERMITTED.
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster) Lava fire is blocked.
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster) Fire spread is UNRESTRICTED.
+[15:10:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Palshenster'
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster_nether) TNT ignition is PERMITTED.
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster_nether) Lighters are PERMITTED.
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster_nether) Lava fire is blocked.
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster_nether) Fire spread is UNRESTRICTED.
+[15:10:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Palshenster_nether'
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster_the_end) TNT ignition is PERMITTED.
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster_the_end) Lighters are PERMITTED.
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster_the_end) Lava fire is blocked.
+[15:10:57] [Server thread/INFO]: [WorldGuard] (Palshenster_the_end) Fire spread is UNRESTRICTED.
+[15:10:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Palshenster_the_end'
+[15:10:57] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:10:58] [Server thread/INFO]: [MachineGuard_Reloaded] Enabling MachineGuard_Reloaded v2.1
+[15:10:58] [Server thread/INFO]: [iConomy] Enabling iConomy v7.0
+[15:10:58] [Server thread/INFO]: [iConomy - April Fools] Enabled (26 ms)
+[15:10:58] [Server thread/INFO]: [iConomy] Hello, I'm Nijikokun. Yes, this is an April Fools joke, but '/money top' was fixed! Enjoy :) - Rare Version!
+[15:10:58] [Server thread/INFO]: [Vault][Economy] iConomy 7 hooked.
+[15:10:58] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.3
+[15:10:58] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:10:58] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:10:58] [Thread-31/INFO]: [iConomy - April Fools] Purged accounts with default balance.
+[15:10:58] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:10:58] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:10:58] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[15:10:58] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[15:10:58] [Server thread/INFO]: [Tablist] Enabling Tablist v1.2.3.7
+[15:10:58] [Server thread/INFO]: Tablist> Tablist v1.2.3.7 enabled!!
+[15:10:58] [Server thread/INFO]: [HideStream] Enabling HideStream v3.7
+[15:10:58] [Server thread/INFO]: [HideStream] Version 3.7 enabled.
+[15:10:58] [Server thread/INFO]: [CPFix] Enabling CPFix v0.4.0
+[15:10:58] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[15:10:58] [Server thread/INFO]: [ChestShop] Enabling ChestShop v3.8.12
+[15:10:58] [Server thread/ERROR]: WARNING: you seem to not be using the Xerial SQLite driver.  See ORMLite docs on SQLite: http://ormlite.com/docs/sqlite
+[15:10:58] [Thread-29/INFO]: [ClearLag] No updates found!
+[15:10:58] [Server thread/INFO]: creating table 'items'
+[15:10:58] [Server thread/INFO]: executed create table statement changed 0 rows: CREATE TABLE IF NOT EXISTS `items` (`id` INTEGER PRIMARY KEY AUTOINCREMENT , `code` VARCHAR NOT NULL ,  UNIQUE (`code`)) 
+[15:10:58] [Server thread/ERROR]: WARNING: you seem to not be using the Xerial SQLite driver.  See ORMLite docs on SQLite: http://ormlite.com/docs/sqlite
+[15:10:58] [Server thread/INFO]: creating table 'accounts'
+[15:10:58] [Server thread/INFO]: creating index 'accounts_shortName_idx' for table 'accounts
+[15:10:58] [Server thread/INFO]: executed create table statement changed 0 rows: CREATE TABLE IF NOT EXISTS `accounts` (`lastSeenName` VARCHAR NOT NULL , `name` VARCHAR NOT NULL , `shortName` VARCHAR NOT NULL , `uuid` VARCHAR NOT NULL , PRIMARY KEY (`name`) ) 
+[15:10:58] [Server thread/INFO]: executed create table statement changed 0 rows: CREATE INDEX IF NOT EXISTS `accounts_shortName_idx` ON `accounts` ( `shortName` )
+[15:10:58] [Server thread/WARN]: [AutoSaveWorld] Plugin ChestShop attempted to establish connection socket://api.mojang.com:443 in main server thread
+[15:10:59] [Server thread/INFO]: [ChestShop] Vault loaded! Found an economy plugin!
+[15:10:59] [Server thread/INFO]: [Jobs] Enabling Jobs v2.12.0
+[15:11:00] [Jobs-DatabaseSaveTask/INFO]: [Jobs] Started database save task
+[15:11:00] [Jobs-BufferedPaymentThread/INFO]: [Jobs] Started buffered payment thread
+[15:11:00] [Server thread/INFO]: [Jobs] Plugin has been enabled succesfully.
+[15:11:00] [Server thread/INFO]: [CreativeGates] Enabling CreativeGates v2.8.4
+[15:11:00] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.4[0;36;22m] [0;33;1m=== ENABLE START ===[m
+[15:11:00] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.4[0;36;22m] [0;33;1m=== ENABLE [0;32;1mCOMPLETE [0;33;1m(Took [0;35;1m40ms[0;33;1m) ===[m
+[15:11:00] [Server thread/INFO]: [Scavenger] Enabling Scavenger v1.6-66
+[15:11:00] [Server thread/INFO]: [Scavenger] Configuration loaded.
+[15:11:00] [Server thread/INFO]: [Scavenger] Economy disabled. Item recovery will be free.
+[15:11:00] [Server thread/INFO]: [Scavenger] Loaded ignore list. (Count = 0)
+[15:11:00] [Server thread/INFO]: [Scavenger] Offline-mode is set to false, no Authenticator Hook
+[15:11:00] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.8-SNAPSHOT:3803-e037f90,master
+[15:11:00] [Server thread/INFO]: [CraftBook] Loading persistent data from YAML!
+[15:11:00] [Server thread/INFO]: [CraftBook] Enumerating chunks for self-triggered components...
+[15:11:00] [Server thread/INFO]: [CraftBook] 1875 chunk(s) for 3 world(s) processed (61ms elapsed)
+[15:11:01] [Server thread/INFO]: [CraftBook] CraftBook v3.9 Beta 4 is the latest version available, and the updatability of it is: UPDATE_AVAILABLE. You currently have version CraftBook v3.9 Beta 4 installed.
+[15:11:01] [Server thread/INFO]: [ChatEx] Enabling ChatEx v1.3
+[15:11:01] [Server thread/INFO]: [ChatEx] Loading updater by TheJeterLP. Project id: 65863
+[15:11:01] [Server thread/INFO]: [ChatEx] Loading updater-config...
+[15:11:01] [Server thread/INFO]: [ChatEx] Done!
+[15:11:01] [Server thread/INFO]: [ChatEx] Updatechecker is enabled.
+[15:11:01] [Server thread/INFO]: [ChatEx] Successfully hooked into: PermissionsEx
+[15:11:01] [Server thread/INFO]: [ChatEx] Listener registered with Priority: LOWEST
+[15:11:01] [Server thread/INFO]: [ChatEx] is now enabled!
+[15:11:01] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.1-SNAPSHOT
+[15:11:01] [Server thread/INFO]: [AuthMe] Loading Configuration File...
+[15:11:01] [Server thread/WARN]: [AuthMe] Merged new Config Options - I'm not an error, please don't report me
+[15:11:01] [Server thread/WARN]: [AuthMe] Please check your config.yml file for new configs!
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] Set Language to: en
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] Metrics started successfully!
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] Vault detected, hooking with the PermissionsEx permissions system...
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] Hooked correctly with Essentials
+[15:11:01] [Server thread/WARN]: [AuthMe] [AuthMe] Could not find spawn.yml, creating new one...
+[15:11:01] [Server thread/WARN]: [AuthMe] [AuthMe] Could not find spawn.yml, creating new one...
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] Hooked correctly with EssentialsSpawn
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] SQLite driver loaded
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] SQLite Setup finished
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] AuthMe hooks perfectly with the VERYGAMES server hosting!
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] Development builds are available on our jenkins, thanks to f14stelt.
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] Do you want a good gameserver? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[15:11:01] [Server thread/INFO]: [AuthMe] [AuthMe] AuthMe 5.1-SNAPSHOT correctly enabled!
+[15:11:01] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.1.10
+[15:11:01] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, adding support for player relative variables.
+[15:11:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:11:01] [Server thread/INFO]: Done (8.516s)! For help, type "help" or "?"
+[15:11:01] [Server thread/INFO]: [Jobs] [Jobs] Successfully linked with Vault.
+[15:11:01] [Craft Scheduler Thread - 12/INFO]: [HideStream] Running updater ..
+[15:11:01] [Craft Scheduler Thread - 12/INFO]: [HideStream] No update was found.
+[15:11:02] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[15:11:04] [Server thread/WARN]: [AutoSaveWorld] Plugin ChatEx attempted to establish connection https://api.curseforge.com/servermods/files?projectIds=65863 in main server thread
+[15:11:05] [Server thread/INFO]: [ChatEx] There is no new version available. You are up-to-date!
+[15:11:10] [Server thread/INFO]: Plugins (28): [0;32;1mCoreProtect[0;37;1m, [0;32;1mWorldEdit[0;37;1m, [0;32;1mEssentials[0;37;1m, [0;32;1mCommandBlocker[0;37;1m, [0;32;1mClearLag[0;37;1m, [0;32;1mAutoMessage[0;37;1m, [0;32;1mWorldBorder[0;37;1m, [0;32;1mWorldGuard[0;37;1m, [0;32;1mAutoSaveWorld[0;37;1m, [0;32;1mMachineGuard_Reloaded[0;37;1m, [0;32;1miConomy[0;37;1m, [0;32;1mPermissionsEx[0;37;1m, [0;32;1mTablist[0;37;1m, [0;32;1mVault[0;37;1m, [0;32;1mHideStream[0;37;1m, [0;32;1mCPFix[0;37;1m, [0;32;1mEssentialsSpawn[0;37;1m, [0;32;1mProtocolSupport[0;37;1m, [0;32;1mMassiveCore[0;37;1m, [0;32;1mChestShop[0;37;1m, [0;32;1mJobs[0;37;1m, [0;32;1mCreativeGates[0;37;1m, [0;32;1mScavenger[0;37;1m, [0;32;1mProtocolLib[0;37;1m, [0;32;1mCraftBook[0;37;1m, [0;32;1mChatEx[0;37;1m, [0;32;1mAuthMe[0;37;1m, [0;32;1mHolographicDisplays[m
+[15:11:13] [Server thread/INFO]: Stopping the server
+[15:11:13] [Server thread/INFO]: Stopping server
+[15:11:13] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.1.10
+[15:11:13] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.1-SNAPSHOT
+[15:11:13] [Server thread/INFO]: [ChatEx] Disabling ChatEx v1.3
+[15:11:13] [Server thread/INFO]: [ChatEx] is now disabled!
+[15:11:13] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.8-SNAPSHOT:3803-e037f90,master
+[15:11:13] [Server thread/INFO]: [CraftBook] Saving persistent data to YAML!
+[15:11:13] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v3.6.4
+[15:11:13] [Server thread/INFO]: [Scavenger] Disabling Scavenger v1.6-66
+[15:11:13] [Server thread/INFO]: [Scavenger] Saved ignore list. (Count = 0)
+[15:11:13] [Server thread/INFO]: [CreativeGates] Disabling CreativeGates v2.8.4
+[15:11:13] [Server thread/INFO]: [0;36;22m[[0;36;1mCreativeGates 2.8.4[0;36;22m] [0;33;1mDisabled[m
+[15:11:13] [Server thread/INFO]: [Jobs] Disabling Jobs v2.12.0
+[15:11:13] [Jobs-DatabaseSaveTask/INFO]: [Jobs] Database save task shutdown
+[15:11:13] [Jobs-BufferedPaymentThread/INFO]: [Jobs] Buffered payment thread shutdown
+[15:11:13] [Server thread/INFO]: [Jobs] Plugin has been disabled succesfully.
+[15:11:13] [Server thread/INFO]: [ChestShop] Disabling ChestShop v3.8.12
+[15:11:13] [Server thread/INFO]: [MassiveCore] Disabling MassiveCore v2.8.4
+[15:11:13] [Server thread/INFO]: [0;36;22m[[0;36;1mMassiveCore 2.8.4[0;36;22m] [0;33;1mDisabled[m
+[15:11:13] [Server thread/INFO]: [ProtocolSupport] Disabling ProtocolSupport v4.21.1
+[15:11:13] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[15:11:13] [Server thread/INFO]: [CPFix] Disabling CPFix v0.4.0
+[15:11:13] [Server thread/INFO]: [HideStream] Disabling HideStream v3.7
+[15:11:13] [Server thread/INFO]: [HideStream] Version 3.7 disabled.
+[15:11:13] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[15:11:13] [Server thread/INFO]: [Essentials] Payment method was disabled. No longer accepting payments.
+[15:11:13] [Server thread/INFO]: [Tablist] Disabling Tablist v1.2.3.7
+[15:11:13] [Server thread/INFO]: Tablist> Tablist v1.2.3.7 disabled!!
+[15:11:13] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.3
+[15:11:13] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:11:13] [Server thread/INFO]: [iConomy] Disabling iConomy v7.0
+[15:11:13] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[15:11:13] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[15:11:13] [Server thread/INFO]: [iConomy] Closing general data...
+[15:11:13] [Server thread/INFO]: [iConomy] Disabled. (0 ms)
+[15:11:13] [Server thread/INFO]: [MachineGuard_Reloaded] Disabling MachineGuard_Reloaded v2.1
+[15:11:13] [Server thread/INFO]: [AutoSaveWorld] Disabling AutoSaveWorld v4.14.2
+[15:11:13] [Server thread/INFO]: [0;34;1mAutoSaving[m
+[15:11:13] [Server thread/INFO]: [0;34;1mAutoSave Complete[m
+[15:11:18] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[15:11:18] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[15:11:18] [Server thread/INFO]: [WorldBorder] Disabling WorldBorder v1.8.5
+[15:11:18] [Server thread/INFO]: [WorldBorder] [CONFIG] Border-checking timed task stopped.
+[15:11:18] [Server thread/INFO]: [AutoMessage] Disabling AutoMessage v2.5.4
+[15:11:18] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.8.4
+[15:11:18] [Server thread/INFO]: [ClearLag] Nullifying module fields..
+[15:11:18] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[15:11:18] [Server thread/INFO]: [CommandBlocker] Disabling CommandBlocker v0.7
+[15:11:18] [Server thread/INFO]: [CommandBlocker] deactivated
+[15:11:18] [Server thread/INFO]: [CommandBlocker] by Bestora
+[15:11:18] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[15:11:18] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[15:11:18] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.12.0
+[15:11:18] [Server thread/INFO]: Saving players
+[15:11:18] [Server thread/INFO]: Saving worlds
+[15:11:18] [Server thread/INFO]: Saving chunks for level 'Palshenster'/Overworld
+[15:11:19] [Server thread/INFO]: Saving chunks for level 'Palshenster_nether'/Nether
+[15:11:19] [Server thread/INFO]: Saving chunks for level 'Palshenster_the_end'/The End
