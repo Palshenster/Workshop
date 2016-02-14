@@ -18,7 +18,7 @@ Tablist:
     Messages:
       Header:
       - |-
-        &r&l©ServerPalshenster
+        &9&k=====&3&l Server - by &cPalshenster. &9&k=====
         &rИгрок: &3&l%player%
         &rЗдоровье: &a&l%health% &7из &2&l%maxhealth%
         &rЕда: &a&l%foodlevel% &7из &2&l10.0

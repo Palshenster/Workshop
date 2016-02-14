@@ -1,0 +1,15 @@
+uniquePlayers: 0
+lastLogin: Palshenster
+lastLoginDisplay: Palshenster
+enableMOTD: true
+randomMOTD: true
+MOTD:
+- '&bWhitelist: &9%whitelist%%n%&4Banned Player Count: &c%bannedplayercount%'
+- '&9&k=====&3&l Server - by &cPalshenster. &9&k====='
+enableLoginMOTD: true
+randomLoginMOTD: true
+delayLoginMOTD: 0
+loginMOTD:
+- '&bДобро пожаловать &9%player_name%&b, %n% &9%players%&b/&9%maxplayers%&b игроков
+  онлайн!'
+- '&9&k=====&3&l Server - by &cPalshenster. &9&k====='

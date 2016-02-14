@@ -1,17 +1,17 @@
 lastAccountName: Palshenster
 timestamps:
-  login: 1453810078883
-  logout: 1453801535902
+  login: 1453899084728
+  logout: 1453899081243
   lastteleport: 1453799833285
 ipAddress: 127.0.0.1
 afk: false
 logoutlocation:
-  world: world
-  x: -234.57820552793163
-  y: 80.22184485273523
-  z: 232.1622321288918
-  yaw: -219.75006
-  pitch: 35.25002
+  world: Palshenster
+  x: -138.62058407075102
+  y: 67.0
+  z: -220.19312318203305
+  yaw: -72.59997
+  pitch: -3.7499928
 lastlocation:
   world: Palshenster
   x: -183.5

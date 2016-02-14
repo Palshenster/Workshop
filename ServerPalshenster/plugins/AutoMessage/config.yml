@@ -22,4 +22,4 @@ message-lists:
     random: false
     messages:
     - '&3На сервер можно зайти с версии 1.5.2 по 1.8.8!'
-    - '&4Сервер собрал Palshenster!'
+    - '&9&k=====&3&l Server - by &cPalshenster. &9&k====='
