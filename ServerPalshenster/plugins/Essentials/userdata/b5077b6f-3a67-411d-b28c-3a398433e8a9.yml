@@ -1,10 +1,10 @@
 lastAccountName: Palshenster
 timestamps:
-  login: 1453899084728
+  login: 1455814844715
   logout: 1453899081243
   lastteleport: 1453799833285
 ipAddress: 127.0.0.1
-afk: false
+afk: true
 logoutlocation:
   world: Palshenster
   x: -138.62058407075102

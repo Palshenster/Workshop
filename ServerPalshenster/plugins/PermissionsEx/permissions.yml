@@ -54,7 +54,8 @@ groups:
     - authme.changepassword
     - jobs.join.*
     - chatex.chat.global
-    - chatex.allowchat    - jobs.join.*
+    - chatex.allowchat
+    - jobs.join.*
     - chatex.chat.global
     - chatex.allowchat
     - -authme.logout
